@@ -1,5 +1,5 @@
-# langchain-agent-rebuild (Project H)
-Rebuild of the Project G ReAct agent with LangChain, for a fair side-by-side comparison.
+# langchain-agent-rebuild
+Rebuild of [react-agent-from-scratch](https://github.com/sadrjahani/react-agent-from-scratch) with LangChain, for a fair side-by-side comparison.
 
 ## Status
 Skeleton. See roadmap issues on GitHub.

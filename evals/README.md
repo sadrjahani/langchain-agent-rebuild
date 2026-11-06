@@ -1,1 +1,1 @@
-# Evals: put the shared G/H multi-tool scenario and expected outputs here.
+# Evals: put the shared multi-tool scenario and expected outputs here.

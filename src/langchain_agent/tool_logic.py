@@ -1,6 +1,6 @@
 """Framework-free tool logic.
 
-PLACEHOLDER: replace the bodies with the real logic from Project G (Phase 0/3) so both
+PLACEHOLDER: replace the bodies with the real logic from react-agent-from-scratch so both
 projects share equivalent behavior. Keeping this layer free of LangChain makes the
 comparison fair and the logic unit-testable.
 """

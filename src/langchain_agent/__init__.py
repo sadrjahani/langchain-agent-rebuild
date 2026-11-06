@@ -1,1 +1,1 @@
-"""Project H: LangChain rebuild of the Project G agent."""
+"""LangChain rebuild of the react-agent-from-scratch agent."""

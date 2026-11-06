@@ -1,7 +1,7 @@
 [project]
 name = "langchain-agent-rebuild"
 version = "0.1.0"
-description = "Project H: rebuild of the Project G ReAct agent with LangChain, plus a fair comparison."
+description = "Rebuild of react-agent-from-scratch with LangChain, plus a fair comparison."
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }

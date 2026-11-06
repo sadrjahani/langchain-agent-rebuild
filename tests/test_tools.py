@@ -26,4 +26,6 @@ def test_lookup_blocks_traversal(tmp_path: Path) -> None:
 
 
 def test_file_lookup_tool_finds_keyword() -> None:
-    assert "Project H" in file_lookup.invoke({"filename": "sample.txt", "keyword": "name"})
+    assert "langchain-agent-rebuild" in file_lookup.invoke(
+        {"filename": "sample.txt", "keyword": "name"}
+    )

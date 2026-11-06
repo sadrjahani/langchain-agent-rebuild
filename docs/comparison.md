@@ -1,5 +1,5 @@
-# G vs H comparison (fill in Phase 7)
-| Aspect | G (from scratch) | H (LangChain) |
+# react-agent-from-scratch vs langchain-agent-rebuild (fill in Phase 7)
+| Aspect | react-agent-from-scratch | langchain-agent-rebuild |
 |---|---|---|
 | Lines of code | | |
 | Tool-call parsing | | |
