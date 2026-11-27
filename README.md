@@ -33,4 +33,4 @@ flowchart TD
 ```
 
 ## Comparison / Limitations
-TODO (Phase 7). See `docs/comparison.md`.
+TODO (Phase 7). See `./docs/comparison.md`.
